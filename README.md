@@ -10,7 +10,7 @@ This repository hosts public documents for **Copycat**, a macOS clipboard histor
 
 For questions, feedback, or support:
 
-- Open an [Issue](https://github.com/raghava-d-6220/copycat-app/issues) on this repo, or  
+- Open an [Issue](https://github.com/raghavanaidu46/copycat-app/issues) on this repo, or  
 - Use the **Support** link in the app (Copycat → Preferences → Advanced → Support).
 
 ---
